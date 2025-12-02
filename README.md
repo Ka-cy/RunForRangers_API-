@@ -1,2 +1,1 @@
-# RunForRangers_API-
-Final Year Project for Run For Rangers fundraising campaign Backend RestAPI
+For Login : Use your uni email address and the password administrator
